@@ -1,3 +1,5 @@
+package Problem1;
+
 public class TestMyPoint {
     public static void main(String[] args) {
         MyPoint myPoint1 = new MyPoint(0,0);

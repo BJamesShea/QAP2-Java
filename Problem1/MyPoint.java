@@ -1,4 +1,6 @@
- public class MyPoint {
+package Problem1;
+
+public class MyPoint {
     private int x;
     private int y;
 

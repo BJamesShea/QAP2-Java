@@ -1,3 +1,5 @@
+package Problem1;
+
 public class MyLine {
     private MyPoint begin;
     private MyPoint end;
