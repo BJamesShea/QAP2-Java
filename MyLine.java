@@ -1,6 +1,7 @@
 public class MyLine {
 
+    public MyLine(MyPoint myPoint, MyPoint myPoint1) {
+    }
 }
 
 
-// test commit 2

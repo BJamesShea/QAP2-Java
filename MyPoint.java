@@ -23,7 +23,16 @@
         this.y = y;
     }
 
+    public double distance(MyPoint another) {
+        int xDiff = this.x - another.x;
+        int yDiff = this.y - another.y;
+        return Math.sqrt(xDiff * xDiff + yDiff * yDiff);
 
+    }
 
+    public String toString() {
+        return "(" + this.x + ", " + this.y + ")";
+    }
+   
  }
 
